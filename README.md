@@ -1,4 +1,4 @@
-# Flashcards
+# Flashcards(using react-redux)
 ##
 On the '/topics/new' page:
 ###

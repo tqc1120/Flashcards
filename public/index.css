@@ -9,7 +9,7 @@ body {
 }
 
 nav {
-  background: #b736ff;
+  background: #78c7ca;
   display: flex;
   padding: 24px 36px;
 }
@@ -28,13 +28,14 @@ nav ul li {
 }
 
 nav a {
-  color: white;
-  font-size: 16px;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
   text-decoration: none;
 }
 
 nav a.active {
   font-weight: bold;
+  color: hsl(39, 100%, 48%);
 }
 
 h1 {
@@ -209,10 +210,10 @@ li:not(:last-child) {
 }
 
 .card {
-  background: #b736ff;
+  background: #78c7ca;
   border-radius: 4px;
   border: none;
-  color: white;
+  color: rgb(255, 255, 255);
   padding: 73px 44px;
   width: 100%;
 }
